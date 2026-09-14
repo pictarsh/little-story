@@ -1,7 +1,7 @@
 ## Description
 The Little Store project features a sleek product profile page that vertically layers a customized promo-badged image over background accents, paired below with neatly styled product details and price tags where item titles and favorite buttons are pushed to opposite edges for a balanced, perfectly aligned layout.
 
-## Swift API Reference
+## SwiftUI API Reference
 ### Layout
 - **VStack()** : Stacks elements vertically (top to bottom).
 - **HStack()** : Stacks elements horizontally (left to right).
